@@ -37,7 +37,7 @@ This README relates to v3.5.3
   - Password restorer
   - File System Checker
 
-![alt text](screenshots/os_installed.png "PINN Interface")
+![alt text](https://procount.github.io/pinn-doc/screenshots/os_installed.png "PINN Interface")
 
 <sup>*NOTE: The list of OSes in this image is indicative only. It will vary according to your Raspberry Pi model and the availability of OSes on the installation sources.</sup>
 
